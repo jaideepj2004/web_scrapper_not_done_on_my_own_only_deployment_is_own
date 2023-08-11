@@ -5450,3 +5450,144 @@ INFO:root:log my final result [{'Product': 'iphone12pro', 'Name': 'Vinit Kar', '
 INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 19:09:37] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 19:09:37] "[33mGET /style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [21/Feb/2023 19:09:37] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.4:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:37:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:37:49] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:37:49] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:37:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'hplaptops', 'Name': 'Sakthivel Chinnathambi', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good one'}, {'Product': 'hplaptops', 'Name': 'Hemant Thakur', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'This is a good product'}, {'Product': 'hplaptops', 'Name': 'Manish  Singhal', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "Everything is Good about this Laptop but if you are display lover I'll not recomond anyone. Best budget laptop I purchased in big billion Sale.. Go For it"}, {'Product': 'hplaptops', 'Name': 'Sahil Saini', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': "Light laptop with sleek design. Everything's good about this laptop at this price range. It is well suited for programmers and for light gaming."}, {'Product': 'hplaptops', 'Name': 'Shailendra Rawat', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Keyboard light is most beautiful'}, {'Product': 'hplaptops', 'Name': 'DOLI ADO', 'Rating': '4', 'CommentHead': 'Delightful', 'Comment': 'Nice product but display is bit disappointing 😉'}, {'Product': 'hplaptops', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Best laptop in this price good performance'}, {'Product': 'hplaptops', 'Name': 'Alluri Sivaramakrishna', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'I used last one month. Performance is satisfactory'}, {'Product': 'hplaptops', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Waste of money!', 'Comment': 'After 2 months battery complaint.'}, {'Product': 'hplaptops', 'Name': 'bharath CY', 'Rating': '2', 'CommentHead': 'Not good', 'Comment': 'Worst Display, colours look so different, not suitable for web developers, designers and graphic designers, not even suitable for watching movies or pictures'}, {'Product': 'hplaptops', 'Name': 'bharath CY', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Worst Display, colours look so different, not suitable for web developers, designers and graphic designers, not even suitable for watching movies or pictures'}]
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:37:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:37:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:37:57] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:41:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:41:46] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:41:46] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'lenovo', 'Name': 'vivek bihani', 'Rating': '1', 'CommentHead': 'Not good', 'Comment': "Update:My agony refuses to end. Turns out this has an volte bug. Yes, the Jio Sims don't work as well as you'd wish. Another reason to stay away. _____________________________________________Have been using the phone for the last last two weeks. Would be an understatement to say I am disappointed. Coming from a MIUI universe  lenovo is like a walk in the woods. The phone doesn't live up to its promises. 1) The battery back-up is awful despite the MAHs claimed. Barely lasts a day when on ..."}, {'Product': 'lenovo', 'Name': 'Sai Santhosh', 'Rating': '4', 'CommentHead': 'Must buy!', 'Comment': 'Hello,this is my decent review after using this for 3 days:Pros:1) This mobile has the most powerful chipset under 15k sd820. But its not useful for moderate users2) Battery was awesome. Quick charge 3.0 makes full charge in less than a hour. Excellent battery under 15k (3500mah)3) No heating issues seen by me as people in other rewiews complained4) No much hanging issues5) Display is also very good (441 ppi). 4k recording also worths 15k6) Rear cam was good7) Video calling is quiet n...'}, {'Product': 'lenovo', 'Name': 'manoj reddy gurram', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'fast dlvry ,..and good product is recved .packing is also good           lenovo zuk z2 plus good battery and camera quality also excellent .....fingerprint is awsme.... i like the phone ........its just good phone        go for it'}, {'Product': 'lenovo', 'Name': 'Aman Soni', 'Rating': '5', 'CommentHead': 'Nice low budget Phone', 'Comment': "Flipkart you have always keep my trust and faith. Hatsoff again...!!!Delivered before time and nicely packed.Come to the phone Its a nice low budget phone didn't use it much but with just one look i can say its Worth it. Looks are awesome. They provided back cover and a matt finish screen guard."}, {'Product': 'lenovo', 'Name': 'Salil Pol', 'Rating': '5', 'CommentHead': 'Nice', 'Comment': "Performance wise it's a decent phone. But even though it has android Marshmallow, many features of marshmallow have been taken off from the phone. Like. For instance, replying from notifications directly for whatsapp and other messages or any other response to notifications from the notification drop down it self has been taken away and the notification drop down feels like the one it was in Android kitkat. Also we have no idea if we will ever get Android Nougat for this phone or not."}, {'Product': 'lenovo', 'Name': 'Vikas Vikas', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Lot of work to do with the phone by Lenovo1. Notification light is too dim2. Battery is not that good3. Software used is not awesome4. Glass used will contain fingerprintPlus points1. Smooth usage2. Good camera3. Better screen4. Home button is awesome5. U health inbuilt app is awesome'}, {'Product': 'lenovo', 'Name': 'vivek mavi', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'I bought this phone in 9898 in flipkart big 10 saleThis is amazing phoneSuper batteryAmazing processor 820 snapdragonExcellent displayGood batteryOverall great phone'}, {'Product': 'lenovo', 'Name': 'Sumanth Boppidi', 'Rating': '2', 'CommentHead': 'Heating', 'Comment': 'I am using this mobile for past 7 days, mobile heats up quickly especially while doing multitasking. Phone heats up rapidly  even while playing less graphic gamesI strongly recommend not to buy this handset, because other mobiles at this price range like xiaomi note 4 is much better'}, {'Product': 'lenovo', 'Name': 'Ashis Kar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Great phone with bad stock ROM. This is a great phone.. with some outstanding pros and cons.Pros1. Great RAM management2. Great display. its awesome actually3. Light and handy4. Processor is blazing fast5. Android N inside after 2 updates.Cons:1. Battery life is not good. Screen on time 4 to 5 hours2. Stock rom is horrible. On day 1 i flashed AICP and it runs like charm. Only problem warranty is void. But you can install stock when its necessary to get the warranty.Do a factory...'}, {'Product': 'lenovo', 'Name': 'venkatesh Kamuju', 'Rating': '1', 'CommentHead': 'Useless product', 'Comment': 'its getting switched off while using'}, {'Product': 'lenovo', 'Name': 'venkatesh Kamuju', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'its getting switched off while using'}]
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:41:54] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:41:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:41:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:44:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:44:01] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:44:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:No Comment Heading
+INFO:root:local variable 'name' referenced before assignment
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:44:17] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:44:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:44:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:44:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:45:03] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:51:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:51:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:51:30] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:51:37] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:51:46] "POST /review HTTP/1.1" 200 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:51:50] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:59:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:59:22] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:59:23] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.45 - - [11/Aug/2023 03:59:30] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://172.18.0.11:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:08:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:08:33] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:08:33] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:08:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:08:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://172.18.0.11:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:10:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:10:30] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:10:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:10:37] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:10:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:10:58] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:10:58] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'tv', 'Name': 'Kamal  Mehra', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Best quality very nice product 👌 thanks Flipkart and sens installation very good service'}, {'Product': 'tv', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Nice smart tv at this price range, almost all apps can be supported. Value of money, Delivery done next day morning and installation in the same day of delivery. Installation process was very smooth. You can go for it'}, {'Product': 'tv', 'Name': 'Naresh Kumar', 'Rating': '3', 'CommentHead': 'Fair', 'Comment': "I M writing this review after using this product for some time. Picture quality and sound is average. Booting could be fast but it's slow."}, {'Product': 'tv', 'Name': 'Sumit Dudhe', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Amazing quality. ....very nice product. ...'}, {'Product': 'tv', 'Name': 'Durga chowdary Gadipudi', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Simply buy without any problem... superb TV at this price range'}, {'Product': 'tv', 'Name': 'damodar  chinnapaka ', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Super tv on this price range'}, {'Product': 'tv', 'Name': 'Hari Prasad Eluri', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Good... can be purchased blindly'}, {'Product': 'tv', 'Name': 'Imthiyas Shereef M', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Best for the price very worthier, i received the Tv next day of order and installation also done in next 24 hours, awesome  sound and picture quality.....Let see how long it going to be in my life'}, {'Product': 'tv', 'Name': 'Craziee Star', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': "Superb fast delivery and the installation is within 4hrs done...Trusted product- if you are middle class family searching for best Android smart TV meaning please go for it.100% good product, but little hanging that's all...Thank you Flipkart - SENS PRODUCTS."}, {'Product': 'tv', 'Name': 'GEETHSETHI I', 'Rating': '1', 'CommentHead': 'Absolute rubbish!', 'Comment': "Very very worst service... Please don't buy that product. Service is not available.. remote got repair in one month, and the service person is not available. Very very worst experience with this sens product. Please don't buy."}, {'Product': 'tv', 'Name': 'GEETHSETHI I', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "Very very worst service... Please don't buy that product. Service is not available.. remote got repair in one month, and the service person is not available. Very very worst experience with this sens product. Please don't buy."}]
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:11:07] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:11:07] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:11:07] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:12:18] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'hplaptops', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Utterly Disappointed', 'Comment': 'This laptop is very poor Flipkart customer service is very poor'}, {'Product': 'hplaptops', 'Name': 'rajib  melsudha', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Good 👍'}, {'Product': 'hplaptops', 'Name': 'ANSAR BASHA', 'Rating': '1', 'CommentHead': 'Waste of money!', 'Comment': 'Poor'}, {'Product': 'hplaptops', 'Name': 'Pawan Vaid', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Awesome products for kids as a study pupose,,'}, {'Product': 'hplaptops', 'Name': 'Ankit Tiwari', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Nice'}, {'Product': 'hplaptops', 'Name': 'TAUSEEF  SHAIKH ', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Very Good Product'}, {'Product': 'hplaptops', 'Name': 'Dip Mitra', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Good product'}, {'Product': 'hplaptops', 'Name': 'niku  patil', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Best laptop for watching Content and for normal use'}, {'Product': 'hplaptops', 'Name': 'Eklavya Kumar', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'If you are student then this Chromebook is quite good enough to boost your study .and for small uses . You have see this Chromebook as a Chromebook rather than comparing it with any laptop because the comparison with any laptop makes you disappointed..'}, {'Product': 'hplaptops', 'Name': 'Rajat Sahu', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Good product'}, {'Product': 'hplaptops', 'Name': 'Rajat Sahu', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good product'}]
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'hplaptops', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Utterly Disappointed', 'Comment': 'This laptop is very poor Flipkart customer service is very poor'}, {'Product': 'hplaptops', 'Name': 'rajib  melsudha', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Good 👍'}, {'Product': 'hplaptops', 'Name': 'ANSAR BASHA', 'Rating': '1', 'CommentHead': 'Waste of money!', 'Comment': 'Poor'}, {'Product': 'hplaptops', 'Name': 'Pawan Vaid', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Awesome products for kids as a study pupose,,'}, {'Product': 'hplaptops', 'Name': 'Ankit Tiwari', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Nice'}, {'Product': 'hplaptops', 'Name': 'TAUSEEF  SHAIKH ', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Very Good Product'}, {'Product': 'hplaptops', 'Name': 'Dip Mitra', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Good product'}, {'Product': 'hplaptops', 'Name': 'niku  patil', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Best laptop for watching Content and for normal use'}, {'Product': 'hplaptops', 'Name': 'Eklavya Kumar', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'If you are student then this Chromebook is quite good enough to boost your study .and for small uses . You have see this Chromebook as a Chromebook rather than comparing it with any laptop because the comparison with any laptop makes you disappointed..'}, {'Product': 'hplaptops', 'Name': 'Rajat Sahu', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Good product'}, {'Product': 'hplaptops', 'Name': 'Rajat Sahu', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good product'}]
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'laptops', 'Name': 'ozair minhaj', 'Rating': '3', 'CommentHead': 'Good', 'Comment': 'Very good and I am fully satisfied'}, {'Product': 'laptops', 'Name': 'Akash Gaikwad', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Satisfactory and equipped enough to work out almost every task'}, {'Product': 'laptops', 'Name': 'Mahesh Chougale', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Best in the market .'}, {'Product': 'laptops', 'Name': 'Naveen chatradi', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'I was completely satisfied with the product but the only issue i was facing is There is no sd card slot in this model So if u are a guy looking to extend your storage using sd card This model is not for you 😞'}, {'Product': 'laptops', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Good'}, {'Product': 'laptops', 'Name': 'Ankit Kumar', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Nice 👍👍👍'}, {'Product': 'laptops', 'Name': 'Debasis lohar', 'Rating': '3', 'CommentHead': 'Does the job', 'Comment': 'Nice work home job'}, {'Product': 'laptops', 'Name': 'Abdulqadir Nulwalla', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': "Good product in this budget range, only some minor issues that I would like to point out.No port for HDMI cable so cannot connect directly to tv need to buy seperate cord for that.Cannot transfer data from laptop to Chromebook using type c slot with USB cable.Cannot install any modded applications easily unlike Android phones.Product is sturdy and has rich finish, very useful for students from high school to bachelor's students but not for engineering students."}, {'Product': 'laptops', 'Name': 'Vivin Prasannaa', 'Rating': '3', 'CommentHead': 'Decent product', 'Comment': "I bought for around 12000 during offer. It is worth for money.Advantages: --It is convertible with touch screen-- lightweight and easy to carry-- performance wise it was good to watch videos and check emails.-- battery backup was very good it usually comes around 4 hours.DisadvantageScreen quality is very poor-- there is no HDmi port ,you have to connect external adaptor to connect with HDMI--you can't install modded apps and many apps were not supporting for this model."}, {'Product': 'laptops', 'Name': 'Sekh Ashadullah', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Nice look'}, {'Product': 'laptops', 'Name': 'Sekh Ashadullah', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice look'}]
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:14:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:14:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:14:22] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://172.18.0.11:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'laptops', 'Name': 'ozair minhaj', 'Rating': '3', 'CommentHead': 'Good', 'Comment': 'Very good and I am fully satisfied'}, {'Product': 'laptops', 'Name': 'Akash Gaikwad', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Satisfactory and equipped enough to work out almost every task'}, {'Product': 'laptops', 'Name': 'Mahesh Chougale', 'Rating': '4', 'CommentHead': 'Worth the money', 'Comment': 'Best in the market .'}, {'Product': 'laptops', 'Name': 'Naveen chatradi', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'I was completely satisfied with the product but the only issue i was facing is There is no sd card slot in this model So if u are a guy looking to extend your storage using sd card This model is not for you 😞'}, {'Product': 'laptops', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Good'}, {'Product': 'laptops', 'Name': 'Ankit Kumar', 'Rating': '4', 'CommentHead': 'Pretty good', 'Comment': 'Nice 👍👍👍'}, {'Product': 'laptops', 'Name': 'Debasis lohar', 'Rating': '3', 'CommentHead': 'Does the job', 'Comment': 'Nice work home job'}, {'Product': 'laptops', 'Name': 'Abdulqadir Nulwalla', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': "Good product in this budget range, only some minor issues that I would like to point out.No port for HDMI cable so cannot connect directly to tv need to buy seperate cord for that.Cannot transfer data from laptop to Chromebook using type c slot with USB cable.Cannot install any modded applications easily unlike Android phones.Product is sturdy and has rich finish, very useful for students from high school to bachelor's students but not for engineering students."}, {'Product': 'laptops', 'Name': 'Vivin Prasannaa', 'Rating': '3', 'CommentHead': 'Decent product', 'Comment': "I bought for around 12000 during offer. It is worth for money.Advantages: --It is convertible with touch screen-- lightweight and easy to carry-- performance wise it was good to watch videos and check emails.-- battery backup was very good it usually comes around 4 hours.DisadvantageScreen quality is very poor-- there is no HDmi port ,you have to connect external adaptor to connect with HDMI--you can't install modded apps and many apps were not supporting for this model."}, {'Product': 'laptops', 'Name': 'Sekh Ashadullah', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Nice look'}, {'Product': 'laptops', 'Name': 'Sekh Ashadullah', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Nice look'}]
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:14:47] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:14:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:14:47] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:19:57] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5003
+ * Running on http://172.18.0.11:5003
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:20:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:20:36] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:20:36] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:172.18.0.2 - - [11/Aug/2023 15:20:42] "POST /review HTTP/1.1" 200 -
